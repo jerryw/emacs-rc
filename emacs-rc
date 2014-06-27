@@ -1,0 +1,4 @@
+(global-linum-mode)
+(column-number-mode)
+(setq scroll-step 1)
+(require 'recentf) (recentf-mode 1)
